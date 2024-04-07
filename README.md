@@ -1,4 +1,4 @@
-<h5 style="font-size:15px;"> Olá, eu me chame João victor🖐️</h5>
+<h5 style="font-size:25px;">- Olá!, eu me chame João victor🖐️</h5>
 
   <div style="display: inline-block"><br>
       <img align="center" alt"css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -7,9 +7,8 @@
 
  ![vtwave GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only)
 
-  ### tecnologias Utilizadas.
-
-
+  <h5 style="font-size:25px;">-👨🏽‍💻 Tecnologias Mais ultizadas</h5>
+  
 - My Skills
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
