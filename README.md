@@ -1,4 +1,4 @@
-  <h4 style="font-size:35px;">-👨🏽‍💻 Tecnologias Mais ultizadas</h4>
+  <h4 style="font-size:35px;">👨🏽‍💻-Tecnologias Mais ultizadas</h4>
   
 - My Skills
 
@@ -8,7 +8,7 @@
 - ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![mysqli](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<h5 style="font-size:35px;">Ferramentas e IDE´S</h5>
+<h4 style="font-size:35px;">🖥️-Ferramentas e IDE´S</h4>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
