@@ -1,9 +1,7 @@
-<h5 style="font-size:35px;">- Olá!, eu me chame João victor🖐️</h5>
+<h5 style="font-size:35px;">-🖐Olá!, eu me chame João victor</h5>
 
-  <div style="display: inline-block"><br>
-      <img align="center" alt"css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img align="center" alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
- </div><br><br>
+![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
  ![vtwave GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only)
 
