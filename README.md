@@ -7,7 +7,7 @@
 
  ![vtwave GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only)
 
-  <h5 style="font-size:25px;">-👨🏽‍💻 Tecnologias Mais ultizadas</h5>
+  <h4 style="font-size:35px;">-👨🏽‍💻 Tecnologias Mais ultizadas</h4>
   
 - My Skills
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
