@@ -1,7 +1,6 @@
-### Olá, eu me chame João victor🖐️
+<h5 style="font-size:15px;" Olá, eu me chame João victor🖐️</h5>
 
   <div style="display: inline-block"><br>
-      [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-rodrigues-moura-b89b47244)
       <img align="center" alt"css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img align="center" alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
  </div><br><br>
