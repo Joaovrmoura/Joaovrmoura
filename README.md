@@ -1,10 +1,10 @@
 
-<h1 style="font-size:35px;">-🖐Olá!, eu me chame João victor</h1>
+<h1 style="font-size:25px;">-🖐Olá!, eu me chame João victor</h1>
 
 ![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<h1 style="font-size:35px;">👨🏽‍💻-Tecnologias Mais ultizadas</h1>
+<h1 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h1>
   
 - My Skills
 
@@ -14,7 +14,7 @@
 - ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![mysqli](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<h1 style="font-size:35px;">🖥️-Ferramentas e IDE´S</h1>
+<h1 style="font-size:25px;">🖥️-Ferramentas e IDE´S</h1>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
