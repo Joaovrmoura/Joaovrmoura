@@ -1,7 +1,7 @@
 
 <h2 style="font-size:25px;">-🖐Olá!, eu me chame João victor</h2>
 
-![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+![linkedIn](https://rb.gy/gsx07t) 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h3 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h3>
