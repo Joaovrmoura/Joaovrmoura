@@ -35,7 +35,7 @@
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only" alt="vtwave GitHub stats-Dark" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only" alt="vtwave GitHub stats-Dark" style="width: 48%; margin:15px;"/>
   <a href="https://github.com/saifurrahman1193">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovrmoura&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Top Langs" style="width: 29%;"/>
   </a>
