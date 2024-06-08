@@ -45,10 +45,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<a href="in/jo%C3%A3o-victor-rodrigues-moura-b89b47244">
-  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedIn&logoColor=blue)
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedIn&logoColor=blue)](in/jo%C3%A3o-victor-rodrigues-moura-b89b47244)
+
 
 ![gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)
 
