@@ -3,12 +3,6 @@
 
 <h3 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h3>
 
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker, laravel" />
-  </a>
-</p>
-
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
     <h3>Front-end</h3>
@@ -21,6 +15,11 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
     </a>
+    <p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker, laravel" />
+  </a>
+</p>
   </div>
 </div>
 
