@@ -14,10 +14,11 @@
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
+       <img src="https://skillicons.dev/icons?i=git,docker,python,mongodb,django" />
     </a>
     <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker, laravel" />
+   
   </a>
 </p>
   </div>
@@ -28,9 +29,9 @@
 <h3 style="font-size:25px;">My Git</h3>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only" alt="vtwave GitHub stats-Dark" style="width: 44%; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only" alt="vtwave GitHub stats-Dark" style="width: 51%; margin-right: 10px;"/>
   <a href="https://github.com/saifurrahman1193">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovrmoura&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Top Langs" style="width: 27%; margin-left: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovrmoura&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Top Langs" style="width: 31%; margin-left: 10px;"/>
   </a>
 </div>
 
