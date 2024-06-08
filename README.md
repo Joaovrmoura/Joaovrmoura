@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=git,docker, laravel" />
   </a>
 </p>
-- Front stack
+- Front-end
 <p align="center">
   <a href="https://skillicons.dev">
     
@@ -17,7 +17,7 @@
    
   </a>
 </p>
-- Back stack
+- Back-end
 <p align="center">
   <a href="https://skillicons.dev">
     
