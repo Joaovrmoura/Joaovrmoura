@@ -8,23 +8,6 @@
     <img src="https://skillicons.dev/icons?i=git,docker, laravel" />
   </a>
 </p>
-- Front-end
-<p align="center">
-  <a href="https://skillicons.dev">
-    
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,bootstrap)](https://skillicons.dev)
-   
-  </a>
-</p>
-- Back-end
-<p align="center">
-  <a href="https://skillicons.dev">
-    
-   [![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql)](https://skillicons.dev)
-   
-  </a>
-</p>
-
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
