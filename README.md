@@ -45,10 +45,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/joão-victor-rodrigues-b89b47244/)
-
-
-![gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)
+[![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaovrmoura4@gmail.com)
 
 
 
