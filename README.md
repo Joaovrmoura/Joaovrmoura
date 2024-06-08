@@ -37,5 +37,5 @@
   
  ![vtwave GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrmoura&hide=javascript,css,scss,html&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrmoura&show=javascript,css,scss,html&theme=tokyonight)
 
