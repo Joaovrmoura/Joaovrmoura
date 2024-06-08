@@ -27,8 +27,6 @@
 </p>
 
 
-
-
 <h3 style="font-size:25px;">🖥️-Ferramentas e IDE´S</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -38,4 +36,6 @@
 
   
  ![vtwave GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrmoura&show=javascript,css,scss,html&theme=tokyonight)
 
