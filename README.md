@@ -3,8 +3,8 @@
 
 <h3 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h3>
 
-- My Skills
-<p align="center">
+- Controle e Contêinerização
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker, laravel" />
   </a>
