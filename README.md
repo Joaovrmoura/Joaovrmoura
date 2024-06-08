@@ -4,13 +4,29 @@
 <h3 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h3>
 
 - My Skills
-<p align="start">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker, laravel" />
   </a>
 </p>
+- Front stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,bootstrap)](https://skillicons.dev)
+   
+  </a>
+</p>
+- Back stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    
+   [![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql)](https://skillicons.dev)
+   
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,laravel,php,bootstrap,mysql)](https://skillicons.dev)
+
 
 
 <h3 style="font-size:25px;">🖥️-Ferramentas e IDE´S</h3>
