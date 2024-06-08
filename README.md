@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,laravel,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,laravel,php,bootstrap,mysql)](https://skillicons.dev)
 
 
 <h3 style="font-size:25px;">🖥️-Ferramentas e IDE´S</h3>
