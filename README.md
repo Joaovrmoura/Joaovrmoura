@@ -5,12 +5,6 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
-    <h3>Controle e Contêinerização</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,docker,laravel" />
-    </a>
-  </div>
-  <div style="flex: 1; text-align: center;">
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,vue,bootstrap" />
