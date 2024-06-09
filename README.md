@@ -1,5 +1,5 @@
 
-<h2 style="font-size:25px; display:flex; text-align:center;">-🖐Olá!, eu me chame João victor</h2>
+<h2 style="font-size:25px; display:flex; text-align:center;">-🖐Olá!</h2>
 
 <h3 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h3>
 
