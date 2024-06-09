@@ -31,7 +31,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only" alt="vtwave GitHub stats-Dark" style="width: 51%; margin-right: 10px;"/>
   <a href="https://github.com/joaovrmoura">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovrmoura&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Top Langs" style="width: 31%; margin-left: 10px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovrmoura&hide=html,scss,stylus,jupyter%20notebook,css,shell,hack,batchfile,dockerfile,typescript&theme=algolia&show_icons=true" alt="Top Langs" style="width: 31%; margin-left: 10px;"/>
   </a>
 </div>
 
