@@ -1,5 +1,5 @@
 
-<h2 style="font-size:25px; display:flex; text-align:center;">-🖐Olá!</h2>
+<h1 style="font-size:25px; display:flex; text-align:center;">-🖐Olá! Seja bem-vindo!</h1>
 
 <h3 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h3>
 
@@ -47,6 +47,8 @@
 
 
   
+<h3 style="font-size:25px;">Contato</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/joão-victor-rodrigues-b89b47244/)
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaovrmoura4@gmail.com)
 
