@@ -14,7 +14,7 @@
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=laravel,php,mysql" />
-       <img src="https://skillicons.dev/icons?i=git,docker,python,mongodb,django" />
+       <img src="https://skillicons.dev/icons?i=git,python,flask" />
     </a>
     <p align="start">
   <a href="https://skillicons.dev">
