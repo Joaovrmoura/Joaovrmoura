@@ -1,12 +1,34 @@
 
-<h1 style="font-size:25px; display:flex; text-align:center;">-🖐Olá! Seja bem-vindo!</h1>
+<div align="center" dir="auto">
+<h3 style="font-size:25px;">My Git</h3>
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB6F92&repeat=false&width=435&lines=Hello%2C+my+name+is+João+victor;I'm+a+frontend+and+backend+developer" alt="Typing SVG"></a></p>
+</div>
+</a></p>
+</div>
 
-<h3 style="font-size:25px;">👨🏽‍💻-Tecnologias Mais ultizadas</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
-    <h3>Front-end</h3>
-    <a href="https://skillicons.dev">
+
+<div align="center" dir="auto">  
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=eb6f92&text_color=c9d1d9&bg_color=0d1117">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=eb6f92&text_color=c9d1d9&bg_color=0d1117" alt="joaovrmoura github stats">
+  </a> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrmoura&layout=compact&count_private=true&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrmoura&layout=compact&count_private=true&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most used languages">
+  </a>
+</div>
+
+<hr>
+ 
+<div align="center" dir="auto">
+  <p dir="auto">
+    <a href="https://git.io/typing-svg" rel="nofollow">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=435&lines=Technologies!" alt="Technologies">
+    </a>
+  </p>
+
+   <div style="flex: 1; text-align: center;">
+   <h3>Front-end</h3>
+      <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,vue,bootstrap" />
     </a>
   </div>
@@ -23,28 +45,6 @@
 </p>
   </div>
 </div>
-
-
-
-<h3 style="font-size:25px;">My Git</h3>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovrmoura&show_icons=true&theme=dark#gh-dark-mode-only" alt="vtwave GitHub stats-Dark" style="width: 51%; margin-right: 10px;"/>
-  <a href="https://github.com/joaovrmoura">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovrmoura&hide=html,scss,stylus,jupyter%20notebook,css,shell,hack,batchfile,typescript&theme=algolia&show_icons=true" alt="Top Langs" style="width: 31%; margin-left: 10px;"/>
-  </a>
-</div>
-
-
-
-
-<h3 style="font-size:25px;">🖥️-Ferramentas e IDE´S</h3>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 
   
 <h3 style="font-size:25px;">Contato</h3>
