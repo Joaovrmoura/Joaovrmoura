@@ -1,7 +1,7 @@
 
 <div align="center" dir="auto">
 <h3 style="font-size:25px;">My Git</h3>
-<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB6F92&repeat=false&width=435&lines=Hello%2C+my+name+is+João+victor;I'm+a+frontend+and+backend+developer" alt="Typing SVG"></a></p>
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=EB6F92&repeat=false&width=435&lines=Hello%2C+my+name+is+João+victor;I'm+a+frontend+and+backend+developer" alt="Typing SVG"></a></p>
 </div>
 </a></p>
 </div>
@@ -27,7 +27,6 @@
   </p>
 
   <div style="flex: 1; text-align: center;">
-    <h3 style="font-size:25px;">Front-end</h3>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
     <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
@@ -35,7 +34,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 
   <div style="flex: 1; text-align: center;">
-    <h3 style="font-size:25px;">Back-end</h3>
     <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
     <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
