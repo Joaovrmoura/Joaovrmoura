@@ -36,10 +36,16 @@
     <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
     <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"></a>
     <a href="#"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"></a>
     <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
   </div>
+  <div style="flex: 1; text-align: center;">
+    <a href="#"><img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-FF2D20?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  </div>
+
 </div>
 
   <hr>
