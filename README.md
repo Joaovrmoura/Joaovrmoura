@@ -1,7 +1,6 @@
 
 <div align="center" dir="auto">
-<h3 style="font-size:25px;">My Git</h3>
-<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=EB6F92&repeat=false&width=435&lines=Hello%2C+my+name+is+João+victor;I'm+a+frontend+and+backend+developer" alt="Typing SVG"></a></p>
+<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=EB6F92&repeat=false&width=435&lines=Hello%2C+my+name+is+João+victor;I'm+a+frontend+and+backend+developer" alt="Typing SVG"></a></p>
 </div>
 </a></p>
 </div>
@@ -21,7 +20,7 @@
 <div align="center" dir="auto">
   <p dir="auto">
     <a href="https://git.io/typing-svg" rel="nofollow">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=EB6F92&center=true&vCenter=true&repeat=false&width=435&lines=Technologies!" 
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=EB6F92&center=true&vCenter=true&repeat=false&width=435&lines=Technologies!" 
       alt="Technologies">
     </a>
   </p>
