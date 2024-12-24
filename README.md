@@ -44,12 +44,84 @@
     <a href="#"><img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
     <a href="#"><img src="https://img.shields.io/badge/Git-FF2D20?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
     <a href="#"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  </div>
+  </div> 
+
+  
+  <!---
+  <table>
+  <tbody>
+    <tr>
+      <td align="center" width="96">
+       <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65">
+        </a>
+        <br>Javascript
+      </td>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/docker-icon.svg">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker">
+        </a>
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/nginx-icon.svg">
+          <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+        </a>
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=git">
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git">
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=gitlab">
+          <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab">
+        </a>
+        <br>GitLab
+      </td>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=html">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML">
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=css">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS">
+        </a>
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=bootstrap">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap">
+        </a>
+        <br>Bootstrap
+      </td>
+    </tr>
+  </tbody>
+</table>
+-->
 
 </div>
 
   <hr>
-<h3 style="font-size:25px;">Contato</h3>
+  <div style="flex: 1; text-align: center;">
+     <h3 style="font-size:25px;">Contato</h3>
+  </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/joão-victor-rodrigues-b89b47244/)
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaovrmoura4@gmail.com)
