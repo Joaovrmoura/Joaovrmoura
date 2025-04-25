@@ -30,7 +30,6 @@
     <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
     <a href="#"><img src="https://img.shields.io/badge/TAILWINDCSS-4fb0f0?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWINDCSS"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
-    <a href="#"><img src="https://img.shields.io/badge/React-4fb0f0?style=for-the-badge&logo=react&logoColor=white" alt="React"></a>
     <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></a>
     <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 
